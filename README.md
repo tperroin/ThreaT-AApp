@@ -1,2 +1,2 @@
-# WarT-AApp
+# ThreaT-AApp
 Our Android app.
